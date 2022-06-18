@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @georgebastion
-- 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning python & javascript 
-- 💞️ I’m looking to collaborate on projects that will broaden my understanding of code
+- 👋 Hi, I’m @georgiebastion
+- 👀 Full stack developer
+- 🌱 I’m looking to collaborate on projects that will broaden my understanding of code
+- 💞️ Let's do this
 - 📫 Reach me @+254719700467
 
 <!---
