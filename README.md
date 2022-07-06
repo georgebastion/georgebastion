@@ -10,3 +10,5 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / GRAPHCMS / MONGODB / NODE
 - 🌱 I’m currently learning advanced JavaScript and TypeScript 
 - 📫 How to reach me: georgejacob437@gmail.com 
 - ⚡ Fun fact: I love coding 
+
+[![Bastion's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgebastion)](https://github.com/anuraghazra/github-readme-stats)
