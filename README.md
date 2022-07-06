@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is George
 ### I am Full Stack Developer (MERN technology)
 
-https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
+![](https://github.com/georgebastion/georgebastion/blob/main/Bastion.png)
 
 I am focused on delivering quality and sustainable code to help build something big in the Future!
 
