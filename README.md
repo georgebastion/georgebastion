@@ -1,7 +1,5 @@
 ## Hi there 👋, my name is George
 ### I am Full Stack Developer (MERN technology)
-!I am Full Stack Developer (MERN technology)
-
 
 https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
 
