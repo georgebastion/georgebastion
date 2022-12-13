@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is George
-### I am Full Stack Developer (MERN technology)
+### Full Stack Developer 
 
 ![](https://github.com/georgebastion/georgebastion/blob/main/Bastion.png)
 
