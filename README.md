@@ -5,7 +5,7 @@
 
 I am focused on delivering quality and sustainable code to help build something big in the Future!
 
-Skills: NEXT JS / REACT / JS / HTML / CSS / GRAPHCMS / MONGODB / NODE
+Skills: NEXT JS / REACT / JS / HTML / CSS / GRAPHCMS / MONGODB / NODE / PHP / REACT NATIVE / C++ / UNITY
 
 - 🌱 I’m currently learning advanced JavaScript and TypeScript 
 - 📫 How to reach me: georgiebastion.com 
